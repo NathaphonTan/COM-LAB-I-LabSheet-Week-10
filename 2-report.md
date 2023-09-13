@@ -15,7 +15,7 @@
 |5| WEALTH RICH Z|[WEALTH RICH Z](https://github.com/VisawaPRO/Project-Proposal-2566)| วิศวะ|
 |ุ6| ชื่อเรื่อง  |Link | สิทธา|
 |7| python basic learning  |[python basic learning](https://github.com/SuphawadiP/Project-Proposal-2566) | สุภาวดี|
-|8| ชื่อเรื่อง  |Link | ณฐพร|
+|8| CUTE MATH  | https://github.com/NathaphonTan/Project-Proposal-2566 | ณฐพร|
 
 3.3 ให้หัวหน้าทีมทำการ pull request มายัง repo ของใบงานนี้
 
