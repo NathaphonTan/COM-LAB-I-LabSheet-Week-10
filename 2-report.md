@@ -13,7 +13,7 @@
 |3| ชื่อเรื่อง  |Link | นิติภูมิ|
 |4| ชื่อเรื่อง  |Link | ภัทรพล|
 |5| WEalTH RICH Z|[WEALTH RICH Z](https://github.com/VisawaPRO/Project-Proposal-2566)| วิศวะ|
-|ุ6| ชื่อเรื่อง  |Link | สิทธา|
+|ุ6| LPTC  |[LPTC](https://github.com/SitthaKlaphanich/Project-Proposal-2566/tree/main) | สิทธา|
 |7| ชื่อเรื่อง  |Link | สุภาวดี|
 |8| ชื่อเรื่อง  |Link | ณฐพร|
 
