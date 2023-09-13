@@ -10,7 +10,7 @@
 |----|----|---|----|
 |1| ชื่อเรื่อง |Link |  กัลยกร  |
 |2| ชื่อเรื่อง  |Link | นัทธมน |
-|3| ชื่อเรื่อง  |Link | นิติภูมิ|
+|3| Anatomy  |[Anatomy](https://github.com/Nitiphum7/Project-Proposal-2566/tree/main) | นิติภูมิ|
 |4| ชื่อเรื่อง  |Link | ภัทรพล|
 |5| WEalTH RICH Z|[WEALTH RICH Z](https://github.com/VisawaPRO/Project-Proposal-2566)| วิศวะ|
 |ุ6| LPTC  |[LPTC](https://github.com/SitthaKlaphanich/Project-Proposal-2566/tree/main) | สิทธา|
