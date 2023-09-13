@@ -12,10 +12,10 @@
 |2| ชื่อเรื่อง  |Link | นัทธมน |
 |3| ชื่อเรื่อง  |Link | นิติภูมิ|
 |4| ชื่อเรื่อง  |Link | ภัทรพล|
-|5| WEalTH RICH Z|[WEALTH RICH Z](https://github.com/VisawaPRO/Project-Proposal-2566)| วิศวะ|
+|5| ชื่อเรื่อง  |Link | วิศวะ|
 |ุ6| ชื่อเรื่อง  |Link | สิทธา|
 |7| ชื่อเรื่อง  |Link | สุภาวดี|
-|8| ชื่อเรื่อง  |Link | ณฐพร|
+|8| CUTE MATH  |[Link](https://github.com/NathaphonTan/Project-Proposal-2566) | ณฐพร|
 
 3.3 ให้หัวหน้าทีมทำการ pull request มายัง repo ของใบงานนี้
 
