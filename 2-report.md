@@ -14,7 +14,7 @@
 |4| ชื่อเรื่อง  |Link | ภัทรพล|
 |5| ชื่อเรื่อง  |Link | วิศวะ|
 |ุ6| ชื่อเรื่อง  |Link | สิทธา|
-|7| ชื่อเรื่อง  |Link | สุภาวดี|
+|7| python basic learning  |[python basic learning](https://github.com/SuphawadiP/Project-Proposal-2566) | สุภาวดี|
 |8| ชื่อเรื่อง  |Link | ณฐพร|
 
 3.3 ให้หัวหน้าทีมทำการ pull request มายัง repo ของใบงานนี้
