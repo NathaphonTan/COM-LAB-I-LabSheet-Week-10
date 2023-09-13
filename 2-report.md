@@ -10,11 +10,11 @@
 |----|----|---|----|
 |1| ชื่อเรื่อง |Link |  กัลยกร  |
 |2| ชื่อเรื่อง  |[SEIT Tapp](https://github.com/65030121natthamon/project-proposal-2566) | นัทธมน |
-|3| ชื่อเรื่อง  |Link | นิติภูมิ|
+|3| Anatomy  |[Anatomy](https://github.com/Nitiphum7/Project-Proposal-2566/tree/main) | นิติภูมิ|
 |4| ชื่อเรื่อง  |Link | ภัทรพล|
-|5| ชื่อเรื่อง  |Link | วิศวะ|
-|ุ6| ชื่อเรื่อง  |Link | สิทธา|
-|7| ชื่อเรื่อง  |Link | สุภาวดี|
+|5| WEalTH RICH Z|[WEALTH RICH Z](https://github.com/VisawaPRO/Project-Proposal-2566)| วิศวะ|
+|ุ6| LPTC  |[LPTC](https://github.com/SitthaKlaphanich/Project-Proposal-2566/tree/main) | สิทธา|
+|7| python basic learning  |[python basic learning](https://github.com/SuphawadiP/Project-Proposal-2566) | สุภาวดี|
 |8| ชื่อเรื่อง  |Link | ณฐพร|
 
 3.3 ให้หัวหน้าทีมทำการ pull request มายัง repo ของใบงานนี้
