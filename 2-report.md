@@ -12,8 +12,8 @@
 |2| ชื่อเรื่อง  |Link | นัทธมน |
 |3| ชื่อเรื่อง  |Link | นิติภูมิ|
 |4| ชื่อเรื่อง  |Link | ภัทรพล|
-|5| WEALTH RICH Z|[WEALTH RICH Z](https://github.com/VisawaPRO/Project-Proposal-2566)| วิศวะ|
-|ุ6| ชื่อเรื่อง  |Link | สิทธา|
+|5| WEalTH RICH Z|[WEALTH RICH Z](https://github.com/VisawaPRO/Project-Proposal-2566)| วิศวะ|
+|ุ6| LPTC  |[LPTC](https://github.com/SitthaKlaphanich/Project-Proposal-2566/tree/main) | สิทธา|
 |7| python basic learning  |[python basic learning](https://github.com/SuphawadiP/Project-Proposal-2566) | สุภาวดี|
 |8| ชื่อเรื่อง  |Link | ณฐพร|
 
